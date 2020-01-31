@@ -44,6 +44,9 @@ A simple c++-orm framework simplifies the operation of mysql sdk, and this code 
         std::cout<<"user.state:"<<s_user.second.state<<std::endl;<br>
         std::cout<<"user.createTime:"<<s_user.second.createTime<<std::endl;<br>
     }
+    
+## Reference
+    [Tiny-ormhttps://github.com/david-pp/tiny-orm](https://github.com/david-pp/tiny-orm)
 
 
 
